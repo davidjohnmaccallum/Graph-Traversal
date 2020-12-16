@@ -1,6 +1,6 @@
 # Graph Traversal in JavaScript
 
-Practicing Breadth First Searcgh (BFS) and Depth First Search (DFS) following [Abdul Bari's video](https://www.youtube.com/watch?v=pcKY4hjDrxk).
+Practicing Breadth First Search (BFS) and Depth First Search (DFS) following [Abdul Bari's video](https://www.youtube.com/watch?v=pcKY4hjDrxk).
 
 ## Breadth First Search
 
