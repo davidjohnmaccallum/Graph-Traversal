@@ -10,6 +10,6 @@ Practicing Breadth First Search (BFS) and Depth First Search (DFS) following [Ab
 
 ## Depth First Search
 
-* Walk three down to leaf nodes and explore them first.
+* Walk tree down to leaf nodes and explore them first.
 * Using a stack
 * Pre order binary tree
